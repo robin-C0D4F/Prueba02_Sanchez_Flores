@@ -1,0 +1,52 @@
+body{
+    background-image: url('img/fondo.png');
+    color: #2C2E35;
+}
+nav .navbar-nav li
+{
+    color: white !important;
+    font-size: 25px;
+}
+header
+{
+    background-color: rgb(139, 139, 139);
+}
+h2{
+    color: #2C2E35;
+}
+.back{
+    background-color: #e6e9f0;
+    padding: 100px;
+    border: 10px;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.foot
+{
+    padding: 30px;
+    background-color: brown;
+    margin: 0;
+    text-align: center;  
+}
+
+a:link {
+    color: rgb(0, 79, 128);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
